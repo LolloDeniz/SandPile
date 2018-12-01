@@ -12,7 +12,7 @@ public class SandPile extends JFrame {
 
     private static Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();      //fetch screen dimensions
     private static int DIMX = 720, DIMY = 720;
-    private static double LOCX = (screenSize.getWidth() - DIMY) / 2, LOCY = (screenSize.getHeight() - DIMX) / 2;
+    private static double LOCX = (screenSize.getWidth() - DIMX) / 2, LOCY = (screenSize.getHeight() - DIMY) / 2;
 
     private static Color color0 = Color.WHITE;
 
